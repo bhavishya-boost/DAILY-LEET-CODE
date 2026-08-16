@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
