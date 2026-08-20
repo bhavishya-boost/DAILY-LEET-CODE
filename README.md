@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
