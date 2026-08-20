@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1859-sorting-the-sentence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
