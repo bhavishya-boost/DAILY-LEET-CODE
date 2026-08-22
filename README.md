@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1859-sorting-the-sentence) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
 ## Bubble Sort
 |  |
