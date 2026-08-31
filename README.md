@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -91,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
