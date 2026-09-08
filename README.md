@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Bubble Sort
 |  |
 | ------- |
