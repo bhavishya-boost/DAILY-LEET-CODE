@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
