@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
