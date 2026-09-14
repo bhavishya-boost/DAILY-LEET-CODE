@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 ## String
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0338-counting-bits) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
