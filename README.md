@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1108-defanging-an-ip-address) |
