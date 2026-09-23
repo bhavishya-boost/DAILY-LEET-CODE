@@ -138,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
