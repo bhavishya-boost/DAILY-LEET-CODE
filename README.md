@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
