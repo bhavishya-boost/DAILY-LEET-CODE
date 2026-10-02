@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0338-counting-bits) |
 ## Geometry
 |  |
