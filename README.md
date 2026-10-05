@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1108-defanging-an-ip-address) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1796-second-largest-digit-in-a-string) |
