@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0344-reverse-string) |
