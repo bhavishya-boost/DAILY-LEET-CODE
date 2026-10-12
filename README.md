@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1796-second-largest-digit-in-a-string) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0836-rectangle-overlap) |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0338-counting-bits) |
 ## Geometry
 |  |
