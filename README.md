@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
