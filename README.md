@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
