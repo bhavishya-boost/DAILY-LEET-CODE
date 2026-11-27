@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/1796-second-largest-digit-in-a-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhavishya-boost/DAILY-LEET-CODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
